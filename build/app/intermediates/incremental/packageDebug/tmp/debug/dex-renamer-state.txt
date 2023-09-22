@@ -1,0 +1,4 @@
+#Fri Sep 01 09:03:16 SGT 2023
+base.0=D\:\\dev\\dailylog\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
